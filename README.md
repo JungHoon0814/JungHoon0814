@@ -82,17 +82,17 @@ As a full-stack developer in a startup environment, I:
 </table>
 </div>
 
-
-## 📊 Coding Time Tracking
+<h2 align="left">📊 Coding Time Tracking</h2>
 
 ### ⏲️ Total Coding Time
 [![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_USER_ID)
 
-### 📈 Weekly Development Breakdown
+<h2 align="left">📈 Weekly Development Breakdown</h2>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## My Stats & Activities
+<h2 align="left">🔥 My Stats & Activities</h2>
 
 <div align="center">
 <table>
@@ -107,7 +107,8 @@ As a full-stack developer in a startup environment, I:
 </table>
 </div>
 
-## 🛠️ Technologies & Tools
+<h2 align="left">🛠️ Technologies & Tools</h2>
+
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
