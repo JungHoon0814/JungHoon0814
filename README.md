@@ -1,10 +1,24 @@
 ## My Profile is being redecorated please wait a moment
 
-- 👋 Hi, I’m @JungHoon0814
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## I always value the "why".
+
+# 🔗 My skills
+
+<div align="center">
+  <h2>김정훈 | JungHoon Kim's GitHub Stats</h2>
+  
+  ![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungHoon0814&show_icons=true&theme=dark&count_private=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungHoon0814&layout=compact&theme=dark)
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+    </a>
+  </p>
+</div>
+
+
 
 
 ## Stack 
