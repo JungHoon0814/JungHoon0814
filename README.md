@@ -1,32 +1,45 @@
-## My Profile is being redecorated please wait a moment
+# JungHoon Kim (PLime) | Frontend Developer🚀
 
-## I always value the "why".
+Hi, I'm JungHoon Kim, a developer who makes question marks into exclamation points.
 
-# 🔗 My skills
+✓ I don't mind taking on new knowledge.
+✓ I'm not afraid to ask questions about things I don't know.
+✓ I always value the 'why'.
 
-<div align="center">
-  <h2>김정훈 | JungHoon Kim's GitHub Stats</h2>
+## 📊 Coding Time Tracking
+
+### ⏲️ Total Coding Time
+[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_USER_ID)
+
+### 📈 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 📈 GitHub Stats & Activities
+
+<div style="display: flex; justify-content: space-between; background-color: #1a1b1e; padding: 20px; border-radius: 10px;">
+  <div>
+    <h3 style="color: #4ade80;">김정훈 | JungHoon Kim's GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=JungHoon0814&show_icons=true&hide_border=true&theme=dark&bg_color=1a1b1e&icon_color=4ade80&title_color=4ade80&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </div>
   
-  ![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungHoon0814&show_icons=true&theme=dark&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungHoon0814&layout=compact&theme=dark)
-  
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-    </a>
-  </p>
+  <div>
+    <h3>Most Used Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHoon0814&layout=compact&hide_border=true&theme=dark&bg_color=1a1b1e&title_color=4ade80" alt="Top Languages" />
+  </div>
 </div>
 
+## 🛠️ Technologies & Tools
 
-
-
-## Stack 
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
-![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![PostCSS](https://img.shields.io/badge/postcss-DD3A0A.svg?&style=for-the-badge&logo=PostCSS&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 ![Redux](https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=black)
 
 
