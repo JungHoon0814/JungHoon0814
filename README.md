@@ -46,7 +46,6 @@ As a full-stack developer in a startup environment, I:
 <table>
 <tr>
 <td>
-
 #### Approach
 * 새로운 기술 탐구
 * 지속적 학습
@@ -54,7 +53,6 @@ As a full-stack developer in a startup environment, I:
 
 </td>
 <td>
-
 #### Philosophy
 * 레거시 시스템 존중
 * 점진적 개선
@@ -62,7 +60,6 @@ As a full-stack developer in a startup environment, I:
 
 </td>
 <td>
-
 #### Outcome
 * 혁신적 해결책
 * 지속 가능한 개발
