@@ -24,6 +24,8 @@ As a full-stack developer in a startup environment, I:
 - 🤝 Bridge communication between design, development, and business needs
 
 ### 🎯 Vision & Approach
+<h2 align="left">🎯 Vision & Approach</h2>
+
 
 <div align="center">
 <table width="100%" cellspacing="0" cellpadding="0">
