@@ -17,10 +17,12 @@ Hi, I'm JungHoon Kim, a developer who makes question marks into exclamation poin
 
 ## My Stats & Activities
 
-<div align="center" style="display: flex; gap: 20px; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JungHoon0814&show_icons=true&hide_border=true&title_color=4ade80&text_color=ffffff&icon_color=4ade80&bg_color=1a1b1e&hide=contribs,issues&count_private=true&custom_title=PLime's%20Github%20Stats" width="60%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHoon0814&layout=compact&hide_border=true&title_color=4ade80&text_color=ffffff&bg_color=1a1b1e&langs_count=6&custom_title=Most%20Used%20Languages" width="33%" />
+<div align="center" style="background-color: #22272e; padding: 20px; border-radius: 6px; margin-bottom: 20px;">
+  <div style="display: grid; grid-template-columns: 70% 30%; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JungHoon0814&show_icons=true&hide_border=true&title_color=7ee787&text_color=adbac7&icon_color=7ee787&bg_color=22272e&hide=contribs,issues&count_private=true&custom_title=Lime's%20Github%20Stats" width="100%" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHoon0814&layout=compact&hide_border=true&title_color=7ee787&text_color=adbac7&bg_color=22272e&langs_count=6&custom_title=Most%20Used%20Languages" width="100%" />
+  </div>
 </div>
 
 ## 🛠️ Technologies & Tools
