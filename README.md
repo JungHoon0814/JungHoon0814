@@ -26,15 +26,27 @@
 ### 💡 My Development Philosophy
 
 ```mermaid
-graph LR
-    A[새로운 기술] --> B[실무 적용]
-    B --> C[레거시 통합]
-    C --> D[시스템 개선]
+flowchart LR
+    A["🆕 새로운 기술"]
+    B["💻 실무 적용"]
+    C["🔄 레거시 통합"]
+    D["⚡ 시스템 개선"]
+    
+    A --> B
+    B --> C
+    C --> D
     D --> A
-    style A fill:#3178C6,color:#fff
-    style B fill:#4ade80,color:#fff
-    style C fill:#f97316,color:#fff
-    style D fill:#8b5cf6,color:#fff
+
+    classDef blue fill:#3178C6,stroke:#fff,stroke-width:2px,color:#fff
+    classDef green fill:#4ade80,stroke:#fff,stroke-width:2px,color:#fff
+    classDef orange fill:#f97316,stroke:#fff,stroke-width:2px,color:#fff
+    classDef purple fill:#8b5cf6,stroke:#fff,stroke-width:2px,color:#fff
+    
+    class A blue
+    class B green
+    class C orange
+    class D purple
+```
 
 ## 📊 Coding Time Tracking
 
