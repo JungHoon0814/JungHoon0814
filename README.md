@@ -26,37 +26,27 @@ As a full-stack developer in a startup environment, I:
 ### 🎯 Vision & Approach
 
 <div align="center">
-<table>
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td align="center" width="50%" style="padding: 20px; background-color: #1a1b1e;">
-<table width="100%" cellpadding="10">
-<tr>
-<td align="center" style="background-color: #2D3748;">
-<img src="https://img.shields.io/badge/NEW-Learning%20Latest%20Tech-4299E1?style=flat-square&labelColor=gray" />
+<td>
+<div align="center" style="background: #1a1b1e; padding: 25px; border-radius: 8px; margin: 10px;">
+<div style="margin-bottom: 15px;">
+<img src="https://img.shields.io/badge/NEW-Learning%20Latest%20Tech-4299E1?style=for-the-badge&logoColor=white&labelColor=2D3748" />
+</div>
+<p style="color: #E2E8F0; font-size: 16px; line-height: 1.6;">
+"새로운 기술을 두려워하지 않고,<br/>지속적인 학습을 통해 성장합니다"
+</p>
+</div>
 </td>
-</tr>
-<tr>
-<td align="center">
-"새로운 기술을 두려워하지 않고,<br/>
-지속적인 학습을 통해 성장합니다"
-</td>
-</tr>
-</table>
-</td>
-<td align="center" width="50%" style="padding: 20px; background-color: #1a1b1e;">
-<table width="100%" cellpadding="10">
-<tr>
-<td align="center" style="background-color: #2D3748;">
-<img src="https://img.shields.io/badge/LEGACY-System%20Expert-48BB78?style=flat-square&labelColor=gray" />
-</td>
-</tr>
-<tr>
-<td align="center">
-"레거시 시스템을 이해하고,<br/>
-점진적 개선을 추구합니다"
-</td>
-</tr>
-</table>
+<td>
+<div align="center" style="background: #1a1b1e; padding: 25px; border-radius: 8px; margin: 10px;">
+<div style="margin-bottom: 15px;">
+<img src="https://img.shields.io/badge/LEGACY-System%20Expert-48BB78?style=for-the-badge&logoColor=white&labelColor=2D3748" />
+</div>
+<p style="color: #E2E8F0; font-size: 16px; line-height: 1.6;">
+"레거시 시스템을 이해하고,<br/>점진적 개선을 추구합니다"
+</p>
+</div>
 </td>
 </tr>
 </table>
