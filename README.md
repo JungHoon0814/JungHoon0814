@@ -55,30 +55,40 @@ As a full-stack developer in a startup environment, I:
 
 <h2 align="left">💡 My Development Philosophy</h2>
 
-<div align="center">
-<table width="100%" style="border-collapse: separate; border-spacing: 0;">
-<tr style="background-color: #1a1b1e;">
-<th width="33.33%" style="padding: 15px; text-align: center; border-bottom: 2px solid #3178C6;">Approach</th>
-<th width="33.33%" style="padding: 15px; text-align: center; border-bottom: 2px solid #3178C6;">Philosophy</th>
-<th width="33.33%" style="padding: 15px; text-align: center; border-bottom: 2px solid #3178C6;">Outcome</th>
-</tr>
+<div align="center" style="width: 100%; margin: 20px 0;">
+<table style="width: 100%; border-collapse: collapse;">
+<thead>
 <tr>
-<td align="left" style="padding: 20px; line-height: 2;">
-- 새로운 기술 탐구<br>
-- 지속적 학습<br>
-- 실험적 시도
+<th style="width: 33%; text-align: center; padding: 16px; border: 1px solid #2d3748;">Approach</th>
+<th style="width: 33%; text-align: center; padding: 16px; border: 1px solid #2d3748;">Philosophy</th>
+<th style="width: 33%; text-align: center; padding: 16px; border: 1px solid #2d3748;">Outcome</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="vertical-align: top; padding: 16px; border: 1px solid #2d3748;">
+<ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li>새로운 기술 탐구</li>
+<li>지속적 학습</li>
+<li>실험적 시도</li>
+</ul>
 </td>
-<td align="left" style="padding: 20px; line-height: 2;">
-- 레거시 시스템 존중<br>
-- 점진적 개선<br>
-- 안정성 중시
+<td style="vertical-align: top; padding: 16px; border: 1px solid #2d3748;">
+<ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li>레거시 시스템 존중</li>
+<li>점진적 개선</li>
+<li>안정성 중시</li>
+</ul>
 </td>
-<td align="left" style="padding: 20px; line-height: 2;">
-- 혁신적 해결책<br>
-- 지속 가능한 개발<br>
-- 균형잡힌 성장
+<td style="vertical-align: top; padding: 16px; border: 1px solid #2d3748;">
+<ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li>혁신적 해결책</li>
+<li>지속 가능한 개발</li>
+<li>균형잡힌 성장</li>
+</ul>
 </td>
 </tr>
+</tbody>
 </table>
 </div>
 
