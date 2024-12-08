@@ -20,10 +20,10 @@ Hi, I'm JungHoon Kim, a developer who makes question marks into exclamation poin
 <div align="center">
 <table>
 <tr>
-<td valign="top" width="65%">
+<td valign="top" width="60%">
 <img src="https://github-readme-stats.vercel.app/api?username=JungHoon0814&show_icons=true&hide_border=true&title_color=3178C6&text_color=8b949e&icon_color=3178C6&bg_color=00000000&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&custom_title=Lime's%20Github%20Stats&card_width=600" />
 </td>
-<td valign="top" width="35%">
+<td valign="top" width="40%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHoon0814&layout=compact&hide_border=true&title_color=3178C6&text_color=8b949e&bg_color=00000000&langs_count=6&custom_title=Most%20Used%20Languages" />
 </td>
 </tr>
