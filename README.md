@@ -1,10 +1,26 @@
-# JungHoon Kim (PLime) | Frontend Developer🚀
+# JungHoon Kim (PLime) | Frontend Developer with Full-Stack Experience 🚀
 
-Hi, I'm JungHoon Kim, a developer who makes question marks into exclamation points.
+Hi, I'm JungHoon, a developer passionate about creating exceptional user experiences through frontend development, while leveraging my full-stack capabilities gained from startup experience.
 
-✓ I don't mind taking on new knowledge.
-✓ I'm not afraid to ask questions about things I don't know.
-✓ I always value the 'why'.
+Currently working at a startup, I wear multiple hats - from crafting pixel-perfect UIs to architecting backend solutions and managing infrastructure. This diverse experience has taught me to see the bigger picture while maintaining a deep focus on frontend excellence.
+
+### What Drives Me
+- I transform complex problems into elegant, user-friendly solutions
+- I believe in understanding the 'why' behind every technical decision
+- I'm not afraid to dive into new territories, whether it's infrastructure or design
+- I continuously bridge the gap between design, development, and business needs
+
+### My Current Role
+As a full-stack developer in a startup environment, I handle:
+- Frontend Development: Building responsive and intuitive user interfaces
+- Backend Architecture: Designing and implementing scalable server solutions
+- Infrastructure Management: Ensuring robust and efficient system operations
+- Product Planning: Contributing to strategic decisions and feature roadmaps
+- UI/UX Design: Creating engaging user experiences from concept to implementation
+
+While I enjoy the challenges of full-stack development, my true passion lies in frontend development, where I strive to create impactful user experiences that make a difference.
+
+Let's connect and build something amazing together!
 
 ## 📊 Coding Time Tracking
 
