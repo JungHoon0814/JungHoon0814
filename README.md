@@ -29,7 +29,7 @@ As a full-stack developer in a startup environment, I:
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td>
-<div align="center" style="background: #1a1b1e; padding: 25px; border-radius: 8px; margin: 10px;">
+<div align="center" style="background: #1a1b1e; padding: 25px; border-radius: 16px; margin: 10px;">
 <div style="margin-bottom: 15px;">
 <img src="https://img.shields.io/badge/NEW-Learning%20Latest%20Tech-4299E1?style=for-the-badge&logoColor=white&labelColor=2D3748" />
 </div>
@@ -39,7 +39,7 @@ As a full-stack developer in a startup environment, I:
 </div>
 </td>
 <td>
-<div align="center" style="background: #1a1b1e; padding: 25px; border-radius: 8px; margin: 10px;">
+<div align="center" style="background: #1a1b1e; padding: 25px; border-radius: 16px; margin: 10px;">
 <div style="margin-bottom: 15px;">
 <img src="https://img.shields.io/badge/LEGACY-System%20Expert-48BB78?style=for-the-badge&logoColor=white&labelColor=2D3748" />
 </div>
