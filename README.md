@@ -1,26 +1,40 @@
 # JungHoon Kim (PLime) | Frontend Developer with Full-Stack Experience 🚀
 
-Hi, I'm JungHoon, a developer passionate about creating exceptional user experiences through frontend development, while leveraging my full-stack capabilities gained from startup experience.
+<div align="center">
+  <img src="https://img.shields.io/badge/Role-Frontend%20Focused-blue" />
+  <img src="https://img.shields.io/badge/Approach-Full%20Stack-green" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen" />
+</div>
 
-Currently working at a startup, I wear multiple hats - from crafting pixel-perfect UIs to architecting backend solutions and managing infrastructure. This diverse experience has taught me to see the bigger picture while maintaining a deep focus on frontend excellence.
+### 🎯 Vision & Approach
 
-### What Drives Me
-- I transform complex problems into elegant, user-friendly solutions
-- I believe in understanding the 'why' behind every technical decision
-- I'm not afraid to dive into new territories, whether it's infrastructure or design
-- I continuously bridge the gap between design, development, and business needs
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/NEW-Learning%20Latest%20Tech-blue" /><br/>
+"새로운 기술을 두려워하지 않고,<br/>지속적인 학습을 통해 성장합니다"
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/LEGACY-System%20Expert-green" /><br/>
+"레거시 시스템을 이해하고,<br/>점진적 개선을 추구합니다"
+</td>
+</tr>
+</table>
+</div>
 
-### My Current Role
-As a full-stack developer in a startup environment, I handle:
-- Frontend Development: Building responsive and intuitive user interfaces
-- Backend Architecture: Designing and implementing scalable server solutions
-- Infrastructure Management: Ensuring robust and efficient system operations
-- Product Planning: Contributing to strategic decisions and feature roadmaps
-- UI/UX Design: Creating engaging user experiences from concept to implementation
+### 💡 My Development Philosophy
 
-While I enjoy the challenges of full-stack development, my true passion lies in frontend development, where I strive to create impactful user experiences that make a difference.
-
-Let's connect and build something amazing together!
+```mermaid
+graph LR
+    A[새로운 기술] --> B[실무 적용]
+    B --> C[레거시 통합]
+    C --> D[시스템 개선]
+    D --> A
+    style A fill:#3178C6,color:#fff
+    style B fill:#4ade80,color:#fff
+    style C fill:#f97316,color:#fff
+    style D fill:#8b5cf6,color:#fff
 
 ## 📊 Coding Time Tracking
 
