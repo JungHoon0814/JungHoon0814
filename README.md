@@ -6,6 +6,23 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen" />
 </div>
 
+### 🚀 About Me
+
+Hi, I'm JungHoon, a developer who bridges the gap between innovation and stability. In my current startup role, I've learned that true technical excellence comes not just from mastering new technologies, but from understanding and effectively maintaining existing systems.
+
+### What I Bring to the Table
+- 🔄 I embrace both cutting-edge technologies and legacy systems, understanding that both have their place in creating robust solutions
+- 🎯 I approach legacy code with respect and curiosity, seeing it as an opportunity to learn from past decisions while identifying areas for improvement
+- 📚 I maintain a consistent learning routine while ensuring it doesn't compromise the stability of existing systems
+- 🛠️ I believe in pragmatic modernization - knowing when to innovate and when to preserve
+
+### Current Focus
+As a full-stack developer in a startup environment, I:
+- 🎨 Create modern, responsive frontends while maintaining existing interfaces
+- 🏗️ Architect scalable solutions that integrate with legacy systems
+- 📐 Balance between new feature development and system maintenance
+- 🤝 Bridge communication between design, development, and business needs
+
 ### 🎯 Vision & Approach
 
 <div align="center">
@@ -25,28 +42,37 @@
 
 ### 💡 My Development Philosophy
 
-```mermaid
-flowchart LR
-    A["🆕 새로운 기술"]
-    B["💻 실무 적용"]
-    C["🔄 레거시 통합"]
-    D["⚡ 시스템 개선"]
-    
-    A --> B
-    B --> C
-    C --> D
-    D --> A
+<div align="center">
+<table>
+<tr>
+<td>
 
-    classDef blue fill:#3178C6,stroke:#fff,stroke-width:2px,color:#fff
-    classDef green fill:#4ade80,stroke:#fff,stroke-width:2px,color:#fff
-    classDef orange fill:#f97316,stroke:#fff,stroke-width:2px,color:#fff
-    classDef purple fill:#8b5cf6,stroke:#fff,stroke-width:2px,color:#fff
-    
-    class A blue
-    class B green
-    class C orange
-    class D purple
-```
+#### Approach
+* 새로운 기술 탐구
+* 지속적 학습
+* 실험적 시도
+
+</td>
+<td>
+
+#### Philosophy
+* 레거시 시스템 존중
+* 점진적 개선
+* 안정성 중시
+
+</td>
+<td>
+
+#### Outcome
+* 혁신적 해결책
+* 지속 가능한 개발
+* 균형잡힌 성장
+
+</td>
+</tr>
+</table>
+</div>
+
 
 ## 📊 Coding Time Tracking
 
