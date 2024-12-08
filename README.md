@@ -55,7 +55,7 @@ As a full-stack developer in a startup environment, I:
 </td>
 <td>
   
-#### Philosophy
+### Philosophy
 * 레거시 시스템 존중
 * 점진적 개선
 * 안정성 중시
@@ -63,7 +63,7 @@ As a full-stack developer in a startup environment, I:
 </td>
 <td>
   
-#### Outcome
+### Outcome
 * 혁신적 해결책
 * 지속 가능한 개발
 * 균형잡힌 성장
