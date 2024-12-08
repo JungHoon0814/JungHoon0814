@@ -15,18 +15,12 @@ Hi, I'm JungHoon Kim, a developer who makes question marks into exclamation poin
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## 📈 GitHub Stats & Activities
+## My Stats & Activities
 
-<div style="display: flex; justify-content: space-between; background-color: #1a1b1e; padding: 20px; border-radius: 10px;">
-  <div>
-    <h3 style="color: #4ade80;">김정훈 | JungHoon Kim's GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=JungHoon0814&show_icons=true&hide_border=true&theme=dark&bg_color=1a1b1e&icon_color=4ade80&title_color=4ade80&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </div>
+<div align="center" style="display: flex; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JungHoon0814&show_icons=true&hide_border=true&title_color=4ade80&text_color=ffffff&icon_color=4ade80&bg_color=1a1b1e&hide=contribs,issues&count_private=true&custom_title=Lime's%20Github%20Stats" width="49%" />
   
-  <div>
-    <h3>Most Used Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHoon0814&layout=compact&hide_border=true&theme=dark&bg_color=1a1b1e&title_color=4ade80" alt="Top Languages" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHoon0814&layout=compact&hide_border=true&title_color=4ade80&text_color=ffffff&bg_color=1a1b1e&langs_count=6&custom_title=Most%20Used%20Languages" width="49%" />
 </div>
 
 ## 🛠️ Technologies & Tools
@@ -40,7 +34,6 @@ Hi, I'm JungHoon Kim, a developer who makes question marks into exclamation poin
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-![Redux](https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=black)
 
 
 <!---
