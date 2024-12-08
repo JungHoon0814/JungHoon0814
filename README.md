@@ -26,19 +26,37 @@ As a full-stack developer in a startup environment, I:
 ### 🎯 Vision & Approach
 
 <div align="center">
-<table width="100%" style="border-collapse: separate; border-spacing: 0 10px;">
+<table>
 <tr>
-<td align="center" width="50%" style="background-color: #1a1b1e; padding: 20px; border-radius: 10px;">
-<div style="background: linear-gradient(90deg, #2D3748 0%, #4299E1 100%); padding: 5px; border-radius: 5px; margin-bottom: 10px;">
-<img src="https://img.shields.io/badge/NEW-Learning%20Latest%20Tech-4299E1?style=flat-square" />
-</div>
-"새로운 기술을 두려워하지 않고,<br/>지속적인 학습을 통해 성장합니다"
+<td align="center" width="50%" style="padding: 20px; background-color: #1a1b1e;">
+<table width="100%" cellpadding="10">
+<tr>
+<td align="center" style="background-color: #2D3748;">
+<img src="https://img.shields.io/badge/NEW-Learning%20Latest%20Tech-4299E1?style=flat-square&labelColor=gray" />
 </td>
-<td align="center" width="50%" style="background-color: #1a1b1e; padding: 20px; border-radius: 10px;">
-<div style="background: linear-gradient(90deg, #2D3748 0%, #48BB78 100%); padding: 5px; border-radius: 5px; margin-bottom: 10px;">
-<img src="https://img.shields.io/badge/LEGACY-System%20Expert-48BB78?style=flat-square" />
-</div>
-"레거시 시스템을 이해하고,<br/>점진적 개선을 추구합니다"
+</tr>
+<tr>
+<td align="center">
+"새로운 기술을 두려워하지 않고,<br/>
+지속적인 학습을 통해 성장합니다"
+</td>
+</tr>
+</table>
+</td>
+<td align="center" width="50%" style="padding: 20px; background-color: #1a1b1e;">
+<table width="100%" cellpadding="10">
+<tr>
+<td align="center" style="background-color: #2D3748;">
+<img src="https://img.shields.io/badge/LEGACY-System%20Expert-48BB78?style=flat-square&labelColor=gray" />
+</td>
+</tr>
+<tr>
+<td align="center">
+"레거시 시스템을 이해하고,<br/>
+점진적 개선을 추구합니다"
+</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
