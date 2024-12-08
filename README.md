@@ -52,34 +52,30 @@ As a full-stack developer in a startup environment, I:
 </table>
 </div>
 
-### 💡 My Development Philosophy
+<h2 align="center">💡 My Development Philosophy</h2>
 
 <div align="center">
-<table>
+<table width="100%" style="background-color: #1a1b1e; border-radius: 10px; border-collapse: separate; border-spacing: 0;">
+<tr style="background: linear-gradient(90deg, #2D3748 0%, #3178C6 100%);">
+<th width="33%" style="padding: 15px; color: white; border-radius: 10px 0 0 0">Approach</th>
+<th width="33%" style="padding: 15px; color: white;">Philosophy</th>
+<th width="33%" style="padding: 15px; color: white; border-radius: 0 10px 0 0">Outcome</th>
+</tr>
 <tr>
-<td>
-  
-### Approach
-* 새로운 기술 탐구
-* 지속적 학습
-* 실험적 시도
-
+<td align="center" style="padding: 20px;">
+- 새로운 기술 탐구<br/>
+- 지속적 학습<br/>
+- 실험적 시도
 </td>
-<td>
-  
-### Philosophy
-* 레거시 시스템 존중
-* 점진적 개선
-* 안정성 중시
-
+<td align="center" style="padding: 20px; border-left: 1px solid #2D3748; border-right: 1px solid #2D3748;">
+- 레거시 시스템 존중<br/>
+- 점진적 개선<br/>
+- 안정성 중시
 </td>
-<td>
-  
-### Outcome
-* 혁신적 해결책
-* 지속 가능한 개발
-* 균형잡힌 성장
-
+<td align="center" style="padding: 20px;">
+- 혁신적 해결책<br/>
+- 지속 가능한 개발<br/>
+- 균형잡힌 성장
 </td>
 </tr>
 </table>
