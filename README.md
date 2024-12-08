@@ -52,7 +52,7 @@ As a full-stack developer in a startup environment, I:
 </table>
 </div>
 
-<h2 align="center">💡 My Development Philosophy</h2>
+<h2 align="left">💡 My Development Philosophy</h2>
 
 <div align="center">
 <table width="100%" style="background-color: #1a1b1e; border-radius: 10px; border-collapse: separate; border-spacing: 0;">
