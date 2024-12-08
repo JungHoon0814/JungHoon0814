@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen" />
 </div>
 
-### 🚀 About Me
+<h2 align="left">🚀 About Me</h2>
 
 Hi, I'm JungHoon, a developer who bridges the gap between innovation and stability. In my current startup role, I've learned that true technical excellence comes not just from mastering new technologies, but from understanding and effectively maintaining existing systems.
 
@@ -23,7 +23,6 @@ As a full-stack developer in a startup environment, I:
 - 📐 Balance between new feature development and system maintenance
 - 🤝 Bridge communication between design, development, and business needs
 
-### 🎯 Vision & Approach
 <h2 align="left">🎯 Vision & Approach</h2>
 
 
