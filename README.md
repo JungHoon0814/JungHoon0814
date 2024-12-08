@@ -17,12 +17,17 @@ Hi, I'm JungHoon Kim, a developer who makes question marks into exclamation poin
 
 ## My Stats & Activities
 
-<div align="center" style="background-color: #22272e; padding: 20px; border-radius: 6px; margin-bottom: 20px;">
-  <div style="display: grid; grid-template-columns: 70% 30%; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JungHoon0814&show_icons=true&hide_border=true&title_color=7ee787&text_color=adbac7&icon_color=7ee787&bg_color=22272e&hide=contribs,issues&count_private=true&custom_title=Lime's%20Github%20Stats" width="100%" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHoon0814&layout=compact&hide_border=true&title_color=7ee787&text_color=adbac7&bg_color=22272e&langs_count=6&custom_title=Most%20Used%20Languages" width="100%" />
-  </div>
+<div align="center">
+<table>
+<tr>
+<td valign="top" width="70%">
+<img src="https://github-readme-stats.vercel.app/api?username=JungHoon0814&show_icons=true&hide_border=true&title_color=7ee787&text_color=adbac7&icon_color=7ee787&bg_color=22272e&hide=contribs,issues&count_private=true&custom_title=Lime's%20Github%20Stats" width="100%" />
+</td>
+<td valign="top" width="30%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHoon0814&layout=compact&hide_border=true&title_color=7ee787&text_color=adbac7&bg_color=22272e&langs_count=6&custom_title=Most%20Used%20Languages" width="100%" />
+</td>
+</tr>
+</table>
 </div>
 
 ## 🛠️ Technologies & Tools
