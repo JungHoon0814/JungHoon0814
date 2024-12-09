@@ -92,6 +92,8 @@ As a full-stack developer in a startup environment, I:
 </table>
 </div>
 
+<h2 align="left">🔥 My Stats & Activities</h2>
+
 <div align="center">
 <table>
 <tr>
@@ -114,9 +116,6 @@ As a full-stack developer in a startup environment, I:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<h2 align="left">🔥 My Stats & Activities</h2>
-
 
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
