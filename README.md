@@ -107,16 +107,12 @@ As a full-stack developer in a startup environment, I:
 </table>
 </div>
 
-<h2 align="left">📊 Coding Time Tracking</h2>
-
-### ⏲️ Total Coding Time
-[![wakatime](https://wakatime.com/badge/user/004f411d-5735-4222-8703-487a7c04c138.svg)](https://wakatime.com/@004f411d-5735-4222-8703-487a7c04c138)
+<h2 align="left">📊 Total Coding Time Tracking</h2>
+![wakatime](https://wakatime.com/badge/user/004f411d-5735-4222-8703-487a7c04c138.svg)](https://wakatime.com/@004f411d-5735-4222-8703-487a7c04c138)
 
 <h2 align="left">📈 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2017%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
