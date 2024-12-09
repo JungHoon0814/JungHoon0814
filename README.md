@@ -107,83 +107,38 @@ As a full-stack developer in a startup environment, I:
 </table>
 </div>
 
-<h2 align="left">📈 Weekly Development Breakdown & 📊 Total Coding Time Tracking</h2>
+# 📊 Weekly Development Breakdown & 📈 Total Coding Time Tracking
+
+[![wakatime](https://wakatime.com/badge/user/004f411d-5735-4222-8703-487a7c04c138.svg)](https://wakatime.com/@004f411d-5735-4222-8703-487a7c04c138)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2017%20mins-blue)
+> 🏆 Weekly Development Breakdown
+<div align="left">
+<table>
+<tr>
+<td width="40%">
+💫 My GitHub Data
+</td>
+<td width="60%">
+💻 Most Used Languages
+</td>
+</tr>
+</table>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+<table>
+<tr>
+<td width="50%">
+⏰ Time Distribution
+</td>
+<td width="50%">
+📅 Weekly Activity
+</td>
+</tr>
+</table>
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-🌆 Daytime                248 commits         ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-🌃 Evening                496 commits         █████████████░░░░░░░░░░░░   53.68 % 
-🌙 Night                  136 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Tuesday                  53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Wednesday                160 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Thursday                 197 commits         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-Friday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Saturday                 175 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Sunday                   114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Python                   2 hrs 29 mins       █████████████░░░░░░░░░░░░   52.09 % 
-TypeScript               1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   38.69 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-CSV                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 47 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-LInuxPIPS_python3_code   2 hrs 41 mins       ██████████████░░░░░░░░░░░   56.35 % 
-ponderlog-frontend       1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   35.59 % 
-Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-ponderlog-backend        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-
-💻 Operating System: 
-Linux                    2 hrs 41 mins       ██████████████░░░░░░░░░░░   56.35 % 
-Mac                      2 hrs 5 mins        ███████████░░░░░░░░░░░░░░   43.65 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               13 repos            █████████████████░░░░░░░░   68.42 % 
-TypeScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-```
-
-
-
-
- Last Updated on 09/12/2024 17:00:38 UTC
+📊 This Week I Spent My Time On
+</div>
 <!--END_SECTION:waka-->
-
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
 
