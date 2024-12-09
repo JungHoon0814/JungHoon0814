@@ -108,7 +108,7 @@ As a full-stack developer in a startup environment, I:
 </div>
 
 <h2 align="left">📊 Total Coding Time Tracking</h2>
-![wakatime](https://wakatime.com/badge/user/004f411d-5735-4222-8703-487a7c04c138.svg)](https://wakatime.com/@004f411d-5735-4222-8703-487a7c04c138)
+[![wakatime](https://wakatime.com/badge/user/004f411d-5735-4222-8703-487a7c04c138.svg)](https://wakatime.com/@004f411d-5735-4222-8703-487a7c04c138)]
 
 <h2 align="left">📈 Weekly Development Breakdown</h2>
 
