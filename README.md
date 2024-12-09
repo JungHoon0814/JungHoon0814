@@ -110,7 +110,7 @@ As a full-stack developer in a startup environment, I:
 <h2 align="left">📊 Coding Time Tracking</h2>
 
 ### ⏲️ Total Coding Time
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_USER_ID)
+[![wakatime](https://wakatime.com/badge/user/004f411d-5735-4222-8703-487a7c04c138.svg)](https://wakatime.com/@004f411d-5735-4222-8703-487a7c04c138)
 
 <h2 align="left">📈 Weekly Development Breakdown</h2>
 
