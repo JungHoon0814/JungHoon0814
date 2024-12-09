@@ -109,6 +109,8 @@ As a full-stack developer in a startup environment, I:
 
 # 📊 Weekly Development Breakdown & 📈 Total Coding Time Tracking
 
+[![wakatime](https://wakatime.com/badge/user/004f411d-5735-4222-8703-487a7c04c138.svg)](https://wakatime.com/@004f411d-5735-4222-8703-487a7c04c138)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2017%20mins-blue)
 
