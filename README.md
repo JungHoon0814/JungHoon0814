@@ -120,8 +120,6 @@ As a full-stack developer in a startup environment, I:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 50 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -184,7 +182,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 13/12/2024 01:22:12 UTC
+ Last Updated on 14/12/2024 01:18:56 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
