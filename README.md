@@ -120,6 +120,8 @@ As a full-stack developer in a startup environment, I:
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 50 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -153,16 +155,16 @@ Sunday                   114 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ponderlog-frontend       19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -176,7 +178,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 21/12/2024 01:13:58 UTC
+ Last Updated on 22/12/2024 01:20:41 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
