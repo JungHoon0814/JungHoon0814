@@ -112,15 +112,11 @@ As a full-stack developer in a startup environment, I:
 [![wakatime](https://wakatime.com/badge/user/004f411d-5735-4222-8703-487a7c04c138.svg)](https://wakatime.com/@004f411d-5735-4222-8703-487a7c04c138)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2013%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -155,20 +151,16 @@ Sunday                   114 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Git Config               30 mins             █████████████████████░░░░   83.96 % 
-C                        4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-핍스 3_3                23 mins             ████████████████░░░░░░░░░   62.94 % 
-PIPS_Windows             9 mins              ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-PIPS_code_20241225 2     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -182,7 +174,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2025 01:14:55 UTC
+ Last Updated on 10/01/2025 01:16:57 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
