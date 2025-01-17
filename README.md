@@ -155,16 +155,17 @@ Sunday                   114 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      17 mins             ████████████████████████░   96.92 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CPUStress-3.3            17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -178,7 +179,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2025 01:13:00 UTC
+ Last Updated on 17/01/2025 01:12:57 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
