@@ -120,8 +120,6 @@ As a full-stack developer in a startup environment, I:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -155,17 +153,16 @@ Sunday                   114 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               2 hrs 1 min         ████████████████████████░   96.18 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SystemDoctor_DeepSpec    2 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -179,7 +176,7 @@ HTML                     3 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 05/05/2025 01:27:12 UTC
+ Last Updated on 06/05/2025 01:24:39 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
