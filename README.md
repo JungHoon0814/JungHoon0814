@@ -112,15 +112,13 @@ As a full-stack developer in a startup environment, I:
 [![wakatime](https://wakatime.com/badge/user/004f411d-5735-4222-8703-487a7c04c138.svg)](https://wakatime.com/@004f411d-5735-4222-8703-487a7c04c138)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -155,20 +153,20 @@ Sunday                   114 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               8 hrs 32 mins       ███████████████████████░░   93.69 % 
-JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+JavaScript               8 hrs 32 mins       █████████████████████░░░░   83.69 % 
+JSON                     1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  10 hrs 12 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SystemDoctor_DeepSpec    8 hrs 32 mins       ███████████████████████░░   93.72 % 
-my-mcp-servers           34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+SystemDoctor_DeepSpec    8 hrs 32 mins       █████████████████████░░░░   83.72 % 
+my-mcp-servers           1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 
 💻 Operating System: 
-Mac                      9 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      10 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -183,7 +181,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/06/2025 01:29:09 UTC
+ Last Updated on 11/06/2025 01:28:36 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
