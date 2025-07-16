@@ -112,7 +112,7 @@ As a full-stack developer in a startup environment, I:
 [![wakatime](https://wakatime.com/badge/user/004f411d-5735-4222-8703-487a7c04c138.svg)](https://wakatime.com/@004f411d-5735-4222-8703-487a7c04c138)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
@@ -155,18 +155,18 @@ Sunday                   114 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               26 mins             ██████████░░░░░░░░░░░░░░░   41.95 % 
-JSON                     20 mins             ████████░░░░░░░░░░░░░░░░░   31.51 % 
-Bash                     16 mins             ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+JavaScript               30 mins             ███████████░░░░░░░░░░░░░░   45.55 % 
+JSON                     20 mins             ███████░░░░░░░░░░░░░░░░░░   29.56 % 
+Bash                     16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SystemDoctor_DeepSpec    1 hr 3 mins         █████████████████████████   100.00 % 
+SystemDoctor_DeepSpec    1 hr 8 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 3 mins         █████████████████████████   100.00 % 
+Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -181,7 +181,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2025 01:45:23 UTC
+ Last Updated on 16/07/2025 01:42:15 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
