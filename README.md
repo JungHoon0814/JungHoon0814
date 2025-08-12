@@ -120,8 +120,6 @@ As a full-stack developer in a startup environment, I:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -155,19 +153,16 @@ Sunday                   114 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Bash                     7 mins              █████████████████░░░░░░░░   68.43 % 
-JSON                     3 mins              ████████░░░░░░░░░░░░░░░░░   30.35 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SystemDoctor_DeepSpec    7 mins              █████████████████░░░░░░░░   69.65 % 
-my-mcp-servers           3 mins              ████████░░░░░░░░░░░░░░░░░   30.35 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -182,7 +177,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2025 01:46:38 UTC
+ Last Updated on 12/08/2025 01:27:50 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
