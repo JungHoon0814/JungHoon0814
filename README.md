@@ -112,8 +112,6 @@ As a full-stack developer in a startup environment, I:
 [![wakatime](https://wakatime.com/badge/user/004f411d-5735-4222-8703-487a7c04c138.svg)](https://wakatime.com/@004f411d-5735-4222-8703-487a7c04c138)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2045%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -128,45 +126,6 @@ As a full-stack developer in a startup environment, I:
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-🌆 Daytime                334 commits         ████████░░░░░░░░░░░░░░░░░   31.10 % 
-🌃 Evening                508 commits         ████████████░░░░░░░░░░░░░   47.30 % 
-🌙 Night                  163 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   158 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Tuesday                  74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Wednesday                184 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Thursday                 240 commits         ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-Friday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Saturday                 181 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Sunday                   114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -179,7 +138,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2025 01:25:50 UTC
+ Last Updated on 23/09/2025 01:19:29 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
