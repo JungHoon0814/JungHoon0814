@@ -155,16 +155,17 @@ Sunday                   114 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     11 mins             ███████████████████████░░   92.97 % 
+JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+my-mcp-servers           12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -179,7 +180,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2025 01:27:32 UTC
+ Last Updated on 21/10/2025 01:23:35 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
