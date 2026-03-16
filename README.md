@@ -27,11 +27,6 @@ PIPS(CPU 모니터링)에서 확장한 AI 하드웨어 성능 평가 시스템.
 Docker 크로스컴파일로 macOS에서 Linux x86_64 바이너리를 빌드하는 파이프라인도 직접 구축.  
 `Python` `Docker` `Cross-compilation` `Performance Engineering`
 
-**🤖 RoboSim** — Urban Delivery Robot Simulator  
-Unity + ROS2 Bridge 기반 배달 로봇 시뮬레이터. 한국 도심 환경 맞춤 설계.  
-B2G 정부 R&D 과제로 기획부터 아키텍처 설계, 구현까지 리드.  
-`Unity` `ROS2` `Docker` `Simulation` `C#`
-
 **🎵 Ambion** — Ambient Sound & Focus Timer SaaS  
 개발자와 프리랜서를 위한 집중 환경 서비스. Offline-first PWA 아키텍처.  
 Tone.js로 실시간 사운드 합성, IndexedDB로 오프라인 데이터 관리.  
